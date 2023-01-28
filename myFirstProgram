@@ -1,0 +1,22 @@
+public class myFirstProgram{
+    public static void main(String[] args) {
+        //System.out.println("Salut");
+        //System.out.println("Jullia");
+
+        System.out.println("       *");
+        System.out.println("      ***");
+        System.out.println("     *****");
+        System.out.println("    *******");
+        System.out.println("   *********");
+        System.out.println("       *");
+
+        System.out.println("salut " + "baieti");
+        System.out.println(55+12345);
+        System.out.println(55 + "551");
+        System.out.println(55 + 10 + "1"); //concatenare
+        System.out.println("1" + 10 + 20); //rezultatul e text din cauza concatenarii
+        System.out.println("1" + (10 + 20));
+    }
+
+
+}
